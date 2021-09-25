@@ -1,0 +1,2 @@
+include ':app', ':ObjectClassification'
+rootProject.name = "ClassifireMask"

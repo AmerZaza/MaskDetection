@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="de.entrance.objectclassification">
+
+    /
+    <uses-feature android:name="com.softbank.hardware.pepper"/>
+</manifest>

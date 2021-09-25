@@ -1,0 +1,11 @@
+* up
+* down
+* right
+* left
+* five
+tow
+one
+* amer
+mobile
+perfect
+null
